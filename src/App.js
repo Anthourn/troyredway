@@ -8,14 +8,18 @@ import {
 import AboutMe from './components/aboutme'
 import NavBar from './components/navbar'
 import Projects from './components/projects'
+import Skills from './components/skills'
+import Footer from './components/footer'
 
 function App() {
   return (
-    <>
+    <div className= 'container'>
     <NavBar/>
     <AboutMe/>
+    <Skills/>
     <Projects/>
-    </>
+    <Footer/>
+    </div>
   );
 }
 
