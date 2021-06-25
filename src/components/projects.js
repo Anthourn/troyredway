@@ -1,5 +1,6 @@
 import react from 'react'
 
+
 const Projects = () => {
     return(
         <>
@@ -10,9 +11,10 @@ const Projects = () => {
        <div className = 'card-content'>
        <h2 className = 'card-title'> Movies2Comics</h2>
        <p className = 'card-body'> Fan of the MCU? find the comics your favorite characters originated in.
-       Built with with functional react, and marvel API.
+       Built with with functional react, MongoDB, Express (MERN) and marvel API.
        <br/>
-       <img className='thumbnail' src="https://img.icons8.com/nolan/64/react-native.png" alt = 'react'/></p>
+       <img className='thumbnail' src="https://img.icons8.com/nolan/64/react-native.png" alt = 'react'/>
+       <img className='tiny' src= 'https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg'/></p>
        <a href = 'https://blooming-taiga-25990.herokuapp.com/' target="_blank" className = 'button'>Live</a>
        <a href = 'https://github.com/Anthourn/avengers' target="_blank" className = 'button'>Repo</a>
        </div>
