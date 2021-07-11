@@ -13,11 +13,11 @@ import Footer from './components/footer'
 
 function App() {
   return (
-    <div className= 'container'>
+    <div className= 'container-fluid'>
     <NavBar/>
+    <Projects/>
     <AboutMe/>
     <Skills/>
-    <Projects/>
     <Footer/>
     </div>
   );
