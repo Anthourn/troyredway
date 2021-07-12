@@ -4,10 +4,35 @@
 }
 #bio {
     background: #E6E3F8;
+    border-radius: 7px;
+}
+.hobby {
+    background: #E6E3F8;
+    border-radius: 7px;
 }
 .nav-item {
     color: #E3F6F8;
 }
 .nav-item:hover{
     color: #E3F6F8;
+}
+.navbar-expand-lg{
+    margin-bottom: 11em;
+    
+}
+
+html{
+    background: #f8f8ff;
+}
+body{
+    background: #f8f8ff;
+}
+
+.space{
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.navbar-collapse{
+    margin: 1em;
 }

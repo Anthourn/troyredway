@@ -12,16 +12,23 @@ const AboutMe = () => {
             </figure>
         </div>
         <div class="col" id = 'bio'>
-            <p class = 'lead' >
+            <p class = 'lead  text-wrap' >
                 I get excited by the idea of creating solutions to improve the lives of others.
-                Web development is a great way to mix that passion with  my ability to role with the punches. A mutable nature keeps me afloat even in the stormiest seas.
+                
                 </p>
             <blockquote class="blockquote">
                 <p>Todays junior, tomorrows leader, eternity's student.</p>
             </blockquote>
         </div>
-        <div class="col">
-          <p> Todays junior, tomorrows leader, eternity's student.</p>
+        <div class="col lead">
+          <p class = 'hobby'> When hes not coding this future legend is really into:
+            <ul>
+            <li>Anime</li>
+            <li>Poetry</li>
+            <li>Marvel comics</li>
+            <li>Handball</li>
+            </ul>
+          </p>
         </div>
       </div>
       </div>
