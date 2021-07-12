@@ -1,0 +1,13 @@
+#avi{
+    border-radius: 50px;
+    height: 15em;
+}
+#bio {
+    background: #E6E3F8;
+}
+.nav-item {
+    color: #E3F6F8;
+}
+.nav-item:hover{
+    color: #E3F6F8;
+}

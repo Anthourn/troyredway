@@ -16,6 +16,7 @@ function App() {
     <div className= 'container-fluid'>
     <NavBar/>
     <Projects/>
+    <hr/>
     <AboutMe/>
     <Skills/>
     <Footer/>
