@@ -3,7 +3,7 @@ import react from 'react'
 const AboutMe = () => {
     return (
         <div class="container">
-        <h1 class="display-2">The man behind the Screen</h1>
+        <h1 class="display-2">The Man Behind The Screen</h1>
       <div class="row align-items-start">
         <div class="col">
         <figure class="figure">
@@ -14,7 +14,7 @@ const AboutMe = () => {
         <div class="col" id = 'bio'>
             <p class = 'lead  text-wrap' >
                 I get excited by the idea of creating solutions to improve the lives of others.
-                
+
                 </p>
             <blockquote class="blockquote">
                 <p>Todays junior, tomorrows leader, eternity's student.</p>
